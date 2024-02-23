@@ -29,5 +29,5 @@ def delete_car():
             cars.pop()
         )
     )
-   
+
 app.run()
